@@ -1,0 +1,10 @@
+.c1{color: rgb(5, 158, 230); font-size: 38px; text-shadow: 2px 2px 2px rgb(10, 10, 10);}
+.c2{font-size: 28px;font-style: italic;}
+.c3{color: blue; text-shadow: 2px 2px 2px rgb(10, 10, 10);}
+ol{color: red;font-size: 28px; font-style: italic; list-style-type: upper-alpha; text-shadow: 2px 2px 2px rgb(243, 239, 32);}
+.c4{color: rgb(145, 243, 18); font-size: 28px;font-style: italic; list-style-type: square; text-shadow: 2px 2px 2px rgb(111, 89, 233);}
+.c5{color: rgb(10, 10, 10); font-size: 20px;font-style: italic; list-style-type: circle; text-shadow: 2px 2px 2px rgb(170, 26, 26);}
+.c6{color: blue; font-size: 28px;font-style: italic; list-style-type: square; text-shadow: 2px 2px 2px rgb(10, 10, 10);}
+.c5:hover{color: rebeccapurple; text-decoration: underline;}
+.c4:hover{color: rgb(230, 149, 27); text-decoration: underline;}
+.c6:hover{color: rgb(114, 156, 235); text-decoration: underline;}
